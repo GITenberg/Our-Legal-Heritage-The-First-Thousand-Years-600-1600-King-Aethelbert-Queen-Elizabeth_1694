@@ -1,0 +1,23 @@
+_repo: Our-Legal-Heritage-The-First-Thousand-Years-600-1600-King-Aethelbert-Queen-Elizabeth_1694
+creator:
+  author:
+    agent_name: Reilly, S. A.
+    gutenberg_agent_id: '696'
+    url: http://www.gutenberg.org/2009/agents/696
+description: This book has undergone multiple editions, and is available as Project
+  Gutenberg eBook numbers 1694, 6603, 13376, 36299 and 40780.
+gutenberg_bookshelf: British Law
+gutenberg_issued: '1999-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1694'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'KD'
+- !lcsh 'Law -- England -- History'
+title: "Our Legal Heritage: The First Thousand Years: 600 - 1600\r\nKing Aethelbert\
+  \ - Queen Elizabeth"
+url: http://www.gutenberg.org/ebooks/1694
