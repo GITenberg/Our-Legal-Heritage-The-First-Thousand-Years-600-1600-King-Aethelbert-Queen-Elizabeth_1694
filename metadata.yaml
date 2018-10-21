@@ -1,5 +1,5 @@
 _repo: Our-Legal-Heritage-The-First-Thousand-Years-600-1600-King-Aethelbert-Queen-Elizabeth_1694
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -24,6 +24,7 @@ rights_url: ''
 subjects:
 - !lcc 'KD'
 - !lcsh 'Law -- England -- History'
+- GITenberg
 title: "Our Legal Heritage: The First Thousand Years: 600 - 1600\r\nKing Aethelbert\
   \ - Queen Elizabeth"
 url: http://www.gutenberg.org/ebooks/1694
